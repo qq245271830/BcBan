@@ -1,0 +1,4 @@
+name: BcBan
+version: 1.0.0
+main: com.pxpmc.bcban.BcBanMain
+author: px
